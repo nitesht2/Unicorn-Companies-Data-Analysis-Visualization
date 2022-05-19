@@ -21,11 +21,8 @@ Here are the few steps for data wrangling and cleaning:
 
 I used python in Google Collab to clean and analyzed the data.
 
-## Clean Data
+📍 Here is the clean data 
+📍 Here is the detail of the project 
 
-Here is the clean data 
-## Google Collab: Notebook
-Here is the detail of the project 
 ## Author
-
 - [@nitesht2](https://github.com/nitesht2)
