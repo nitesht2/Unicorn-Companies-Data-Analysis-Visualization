@@ -22,6 +22,7 @@ Here are the few steps for data wrangling and cleaning:
 I used python in Google Collab to clean and analyzed the data.
 
 📍 Here is the clean data 
+
 📍 Here is the detail of the project 
 
 ## Author
