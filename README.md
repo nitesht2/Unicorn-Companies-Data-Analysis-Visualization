@@ -7,7 +7,7 @@ Detail of the challange can be found [here](<https://www.mavenanalytics.io/blog/
 A unicorn company is a private company with a valuation of more than $1 billion, and today there are over 1,000 unicorn companies around the world!
 
 This dataset contains a csv table with 1,074 records, one for each company
-Each record contains details on the company's current valuation, total funding, country of origin, industry, select investors, and the years they were founded and became unicorns
+Each record contains details on the company's current valuation, total funding, country of origin, industry, select investors, and the years they were founded and became unicorns.
 
 ------
 ## Data Wrangling
@@ -21,9 +21,9 @@ Here are the few steps for data wrangling and cleaning:
 
 I used python in Google Collab to clean and analyzed the data.
 
-📍 [Clean data](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization/blob/main/clean_unicorn_companies.csv) 
+:pushpin: [Clean data](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization/blob/main/clean_unicorn_companies.csv) 
 
-📍 [Notebook of the project](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization/blob/main/Unicorn_Companies.ipynb)
+:pushpin: [Notebook of the project](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization/blob/main/Unicorn_Companies.ipynb)
 
 ## Author
 - [@nitesht2](https://github.com/nitesht2)
