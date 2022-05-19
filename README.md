@@ -2,7 +2,7 @@
 ## Unicorn Companies Data Analysis
 
 This data analysis is a part of Maven Unicorn Challange.
-Detail of the challange can be found here: <https://www.mavenanalytics.io/blog/maven-unicorn-challenge>
+Detail of the challange can be found [here](<https://www.mavenanalytics.io/blog/maven-unicorn-challenge>)
 
 A unicorn company is a private company with a valuation of more than $1 billion, and today there are over 1,000 unicorn companies around the world!
 
@@ -21,9 +21,9 @@ Here are the few steps for data wrangling and cleaning:
 
 I used python in Google Collab to clean and analyzed the data.
 
-📍 Here is the clean data 
+📍 [Clean data](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization/blob/main/clean_unicorn_companies.csv) 
 
-📍 Here is the detail of the project 
+📍 [Notebook of the project](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization/blob/main/Unicorn_Companies.ipynb)
 
 ## Author
 - [@nitesht2](https://github.com/nitesht2)
