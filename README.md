@@ -21,7 +21,8 @@ Here are the few steps for data wrangling and cleaning:
 - Explode Select Investors column into individual rows for categorical analysis
 ## Tools
 
-I used python in Google Collab to clean and analyzed the data.
+- Python in Google Collab to clean and analyzed the data.
+- Tableau for data visualization
 
 :pushpin: [Clean data](https://github.com/nitesht2/Unicorn-Companies-Data-Analysis-Visualization/blob/main/clean_unicorn_companies.csv) 
 
