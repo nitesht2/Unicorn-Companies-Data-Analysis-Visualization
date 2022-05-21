@@ -9,7 +9,9 @@ A unicorn company is a private company with a valuation of more than $1 billion,
 This dataset contains a csv table with 1,074 records, one for each company
 Each record contains details on the company's current valuation, total funding, country of origin, industry, select investors, and the years they were founded and became unicorns.
 
-------
+## Business task
+Illustrate the current landscape of unicorn companies around the globe, presented in the form of a single-page report or dashboard.
+
 ## Data Wrangling
 Here are the few steps for data wrangling and cleaning:
 
